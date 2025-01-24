@@ -1,8 +1,9 @@
 # Hi there 👋
 
 - I am **ZZHow** (**ZZHow1024**), a full-stack developer 👨‍💻.
-- My website: [ZZHow](https://www.zzhow.com)
-- My blog: [ZZHow Blog](https://blog.zzhow.com/)
+- My Email: mail@zzhow.com
+- My Website: [ZZHow](https://www.zzhow.com)
+- My Blog: [ZZHow Blog](https://blog.zzhow.com/)
 
 ## Most Used Languages
 
