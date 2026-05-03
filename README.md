@@ -7,7 +7,7 @@
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZHow1024&layout=compact&exclude_repo=sumy7.github.io&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) </div>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZZHow1024&layout=compact&exclude_repo=sumy7.github.io&hide=jupyter%20notebook)](https://github.com/Pranesh-2005/github-readme-stats-fast) </div>
 
 ## My Skill Set  
 
